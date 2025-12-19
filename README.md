@@ -22,7 +22,7 @@ Zustand is a small, fast, and scalable state management solution for React appli
 
 ## 📚 Tutorial Structure
 
-This tutorial is organized into 4 progressive lessons that build upon each other:
+This tutorial is organized into 5 progressive lessons that build upon each other:
 
 ### 1. [Prerequisites](./01.Prerequisite.md)
 
@@ -66,6 +66,17 @@ This tutorial is organized into 4 progressive lessons that build upon each other
 - DevTools and debugging
 - Persistence patterns
 - Testing Zustand stores
+
+### 5. [Redux Toolkit vs Zustand](./05.React%20Redux%20Toolkit%20vs%20Zustand.md)
+
+**Comprehensive comparison between Redux Toolkit and Zustand**
+
+- Architecture differences and use cases
+- Performance and bundle size comparison
+- Setup complexity and developer experience
+- Advanced features and middleware
+- Migration strategies and decision framework
+- Real-world application examples
 
 ## 🚀 Quick Start
 
