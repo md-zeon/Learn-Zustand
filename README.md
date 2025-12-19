@@ -100,24 +100,6 @@ cd Learn-Zustand
 npm install
 ```
 
-### Running Examples
-
-Each lesson includes code examples. To run them:
-
-```bash
-# For Vite projects
-npm create vite@latest my-zustand-app -- --template react
-cd my-zustand-app
-npm install zustand
-npm run dev
-
-# For Create React App
-npx create-react-app my-zustand-app
-cd my-zustand-app
-npm install zustand
-npm start
-```
-
 ## 📋 Learning Path
 
 ### Phase 1: Foundations
